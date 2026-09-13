@@ -1,0 +1,209 @@
+match_id,match_number,stage_group,group,team,opponent,goals
+2026-M001-MEX-RSA,1,Group stage,Group A,Mexico,South Africa,2
+2026-M001-MEX-RSA,1,Group stage,Group A,South Africa,Mexico,0
+2026-M002-KOR-CZE,2,Group stage,Group A,Czechia,Korea Republic,1
+2026-M002-KOR-CZE,2,Group stage,Group A,Korea Republic,Czechia,2
+2026-M003-CAN-BIH,3,Group stage,Group B,Bosnia and Herzegovina,Canada,1
+2026-M003-CAN-BIH,3,Group stage,Group B,Canada,Bosnia and Herzegovina,1
+2026-M004-USA-PAR,4,Group stage,Group D,Paraguay,USA,1
+2026-M004-USA-PAR,4,Group stage,Group D,USA,Paraguay,4
+2026-M005-HAI-SCO,5,Group stage,Group C,Haiti,Scotland,0
+2026-M005-HAI-SCO,5,Group stage,Group C,Scotland,Haiti,1
+2026-M006-AUS-TUR,6,Group stage,Group D,Australia,Türkiye,2
+2026-M006-AUS-TUR,6,Group stage,Group D,Türkiye,Australia,0
+2026-M007-BRA-MAR,7,Group stage,Group C,Brazil,Morocco,1
+2026-M007-BRA-MAR,7,Group stage,Group C,Morocco,Brazil,1
+2026-M008-QAT-SUI,8,Group stage,Group B,Qatar,Switzerland,1
+2026-M008-QAT-SUI,8,Group stage,Group B,Switzerland,Qatar,1
+2026-M009-CIV-ECU,9,Group stage,Group E,Côte d'Ivoire,Ecuador,1
+2026-M009-CIV-ECU,9,Group stage,Group E,Ecuador,Côte d'Ivoire,0
+2026-M010-GER-CUW,10,Group stage,Group E,Curaçao,Germany,1
+2026-M010-GER-CUW,10,Group stage,Group E,Germany,Curaçao,7
+2026-M011-NED-JPN,11,Group stage,Group F,Japan,Netherlands,2
+2026-M011-NED-JPN,11,Group stage,Group F,Netherlands,Japan,2
+2026-M012-SWE-TUN,12,Group stage,Group F,Sweden,Tunisia,5
+2026-M012-SWE-TUN,12,Group stage,Group F,Tunisia,Sweden,1
+2026-M013-KSA-URU,13,Group stage,Group H,Saudi Arabia,Uruguay,1
+2026-M013-KSA-URU,13,Group stage,Group H,Uruguay,Saudi Arabia,1
+2026-M014-ESP-CPV,14,Group stage,Group H,Cabo Verde,Spain,0
+2026-M014-ESP-CPV,14,Group stage,Group H,Spain,Cabo Verde,0
+2026-M015-IRN-NZL,15,Group stage,Group G,IR Iran,New Zealand,2
+2026-M015-IRN-NZL,15,Group stage,Group G,New Zealand,IR Iran,2
+2026-M016-BEL-EGY,16,Group stage,Group G,Belgium,Egypt,1
+2026-M016-BEL-EGY,16,Group stage,Group G,Egypt,Belgium,1
+2026-M017-FRA-SEN,17,Group stage,Group I,France,Senegal,3
+2026-M017-FRA-SEN,17,Group stage,Group I,Senegal,France,1
+2026-M018-IRQ-NOR,18,Group stage,Group I,Iraq,Norway,1
+2026-M018-IRQ-NOR,18,Group stage,Group I,Norway,Iraq,4
+2026-M019-ARG-ALG,19,Group stage,Group J,Algeria,Argentina,0
+2026-M019-ARG-ALG,19,Group stage,Group J,Argentina,Algeria,3
+2026-M020-AUT-JOR,20,Group stage,Group J,Austria,Jordan,3
+2026-M020-AUT-JOR,20,Group stage,Group J,Jordan,Austria,1
+2026-M021-GHA-PAN,21,Group stage,Group L,Ghana,Panama,1
+2026-M021-GHA-PAN,21,Group stage,Group L,Panama,Ghana,0
+2026-M022-ENG-CRO,22,Group stage,Group L,Croatia,England,2
+2026-M022-ENG-CRO,22,Group stage,Group L,England,Croatia,4
+2026-M023-POR-COD,23,Group stage,Group K,Congo DR,Portugal,1
+2026-M023-POR-COD,23,Group stage,Group K,Portugal,Congo DR,1
+2026-M024-UZB-COL,24,Group stage,Group K,Colombia,Uzbekistan,3
+2026-M024-UZB-COL,24,Group stage,Group K,Uzbekistan,Colombia,1
+2026-M025-CZE-RSA,25,Group stage,Group A,Czechia,South Africa,1
+2026-M025-CZE-RSA,25,Group stage,Group A,South Africa,Czechia,1
+2026-M026-SUI-BIH,26,Group stage,Group B,Bosnia and Herzegovina,Switzerland,1
+2026-M026-SUI-BIH,26,Group stage,Group B,Switzerland,Bosnia and Herzegovina,4
+2026-M027-CAN-QAT,27,Group stage,Group B,Canada,Qatar,6
+2026-M027-CAN-QAT,27,Group stage,Group B,Qatar,Canada,0
+2026-M028-MEX-KOR,28,Group stage,Group A,Korea Republic,Mexico,0
+2026-M028-MEX-KOR,28,Group stage,Group A,Mexico,Korea Republic,1
+2026-M029-BRA-HAI,29,Group stage,Group C,Brazil,Haiti,3
+2026-M029-BRA-HAI,29,Group stage,Group C,Haiti,Brazil,0
+2026-M030-SCO-MAR,30,Group stage,Group C,Morocco,Scotland,1
+2026-M030-SCO-MAR,30,Group stage,Group C,Scotland,Morocco,0
+2026-M031-TUR-PAR,31,Group stage,Group D,Paraguay,Türkiye,1
+2026-M031-TUR-PAR,31,Group stage,Group D,Türkiye,Paraguay,0
+2026-M032-USA-AUS,32,Group stage,Group D,Australia,USA,0
+2026-M032-USA-AUS,32,Group stage,Group D,USA,Australia,2
+2026-M033-GER-CIV,33,Group stage,Group E,Côte d'Ivoire,Germany,1
+2026-M033-GER-CIV,33,Group stage,Group E,Germany,Côte d'Ivoire,2
+2026-M034-ECU-CUW,34,Group stage,Group E,Curaçao,Ecuador,0
+2026-M034-ECU-CUW,34,Group stage,Group E,Ecuador,Curaçao,0
+2026-M035-NED-SWE,35,Group stage,Group F,Netherlands,Sweden,5
+2026-M035-NED-SWE,35,Group stage,Group F,Sweden,Netherlands,1
+2026-M036-TUN-JPN,36,Group stage,Group F,Japan,Tunisia,4
+2026-M036-TUN-JPN,36,Group stage,Group F,Tunisia,Japan,0
+2026-M037-URU-CPV,37,Group stage,Group H,Cabo Verde,Uruguay,2
+2026-M037-URU-CPV,37,Group stage,Group H,Uruguay,Cabo Verde,2
+2026-M038-ESP-KSA,38,Group stage,Group H,Saudi Arabia,Spain,0
+2026-M038-ESP-KSA,38,Group stage,Group H,Spain,Saudi Arabia,4
+2026-M039-BEL-IRN,39,Group stage,Group G,Belgium,IR Iran,0
+2026-M039-BEL-IRN,39,Group stage,Group G,IR Iran,Belgium,0
+2026-M040-NZL-EGY,40,Group stage,Group G,Egypt,New Zealand,3
+2026-M040-NZL-EGY,40,Group stage,Group G,New Zealand,Egypt,1
+2026-M041-NOR-SEN,41,Group stage,Group I,Norway,Senegal,3
+2026-M041-NOR-SEN,41,Group stage,Group I,Senegal,Norway,2
+2026-M042-FRA-IRQ,42,Group stage,Group I,France,Iraq,3
+2026-M042-FRA-IRQ,42,Group stage,Group I,Iraq,France,0
+2026-M043-ARG-AUT,43,Group stage,Group J,Argentina,Austria,2
+2026-M043-ARG-AUT,43,Group stage,Group J,Austria,Argentina,0
+2026-M044-JOR-ALG,44,Group stage,Group J,Algeria,Jordan,2
+2026-M044-JOR-ALG,44,Group stage,Group J,Jordan,Algeria,1
+2026-M045-ENG-GHA,45,Group stage,Group L,England,Ghana,0
+2026-M045-ENG-GHA,45,Group stage,Group L,Ghana,England,0
+2026-M046-PAN-CRO,46,Group stage,Group L,Croatia,Panama,1
+2026-M046-PAN-CRO,46,Group stage,Group L,Panama,Croatia,0
+2026-M047-POR-GHA,47,Group stage,Group K,Portugal,Uzbekistan,5
+2026-M047-POR-GHA,47,Group stage,Group K,Uzbekistan,Portugal,0
+2026-M048-COL-COD,48,Group stage,Group K,Colombia,Congo DR,1
+2026-M048-COL-COD,48,Group stage,Group K,Congo DR,Colombia,0
+2026-M049-SCO-BRA,49,Group stage,Group C,Brazil,Scotland,3
+2026-M049-SCO-BRA,49,Group stage,Group C,Scotland,Brazil,0
+2026-M050-MAR-HAI,50,Group stage,Group C,Haiti,Morocco,2
+2026-M050-MAR-HAI,50,Group stage,Group C,Morocco,Haiti,4
+2026-M051-SUI-CAN,51,Group stage,Group B,Canada,Switzerland,1
+2026-M051-SUI-CAN,51,Group stage,Group B,Switzerland,Canada,2
+2026-M052-BIH-QAT,52,Group stage,Group B,Bosnia and Herzegovina,Qatar,3
+2026-M052-BIH-QAT,52,Group stage,Group B,Qatar,Bosnia and Herzegovina,1
+2026-M053-CZE-MEX,53,Group stage,Group A,Czechia,Mexico,0
+2026-M053-CZE-MEX,53,Group stage,Group A,Mexico,Czechia,3
+2026-M054-RSA-KOR,54,Group stage,Group A,Korea Republic,South Africa,0
+2026-M054-RSA-KOR,54,Group stage,Group A,South Africa,Korea Republic,1
+2026-M055-CUW-CIV,55,Group stage,Group E,Curaçao,Côte d'Ivoire,0
+2026-M055-CUW-CIV,55,Group stage,Group E,Côte d'Ivoire,Curaçao,2
+2026-M056-ECU-GER,56,Group stage,Group E,Ecuador,Germany,2
+2026-M056-ECU-GER,56,Group stage,Group E,Germany,Ecuador,1
+2026-M057-JPN-SWE,57,Group stage,Group F,Japan,Sweden,1
+2026-M057-JPN-SWE,57,Group stage,Group F,Sweden,Japan,1
+2026-M058-TUN-NED,58,Group stage,Group F,Netherlands,Tunisia,3
+2026-M058-TUN-NED,58,Group stage,Group F,Tunisia,Netherlands,1
+2026-M059-TUR-USA,59,Group stage,Group D,Türkiye,USA,3
+2026-M059-TUR-USA,59,Group stage,Group D,USA,Türkiye,2
+2026-M060-PAR-AUS,60,Group stage,Group D,Australia,Paraguay,0
+2026-M060-PAR-AUS,60,Group stage,Group D,Paraguay,Australia,0
+2026-M061-NOR-FRA,61,Group stage,Group I,France,Norway,4
+2026-M061-NOR-FRA,61,Group stage,Group I,Norway,France,1
+2026-M062-SEN-IRQ,62,Group stage,Group I,Iraq,Senegal,0
+2026-M062-SEN-IRQ,62,Group stage,Group I,Senegal,Iraq,5
+2026-M063-EGY-IRN,63,Group stage,Group G,Egypt,IR Iran,1
+2026-M063-EGY-IRN,63,Group stage,Group G,IR Iran,Egypt,1
+2026-M064-NZL-BEL,64,Group stage,Group G,Belgium,New Zealand,5
+2026-M064-NZL-BEL,64,Group stage,Group G,New Zealand,Belgium,1
+2026-M065-CPV-KSA,65,Group stage,Group H,Cabo Verde,Saudi Arabia,0
+2026-M065-CPV-KSA,65,Group stage,Group H,Saudi Arabia,Cabo Verde,0
+2026-M066-URU-ESP,66,Group stage,Group H,Spain,Uruguay,1
+2026-M066-URU-ESP,66,Group stage,Group H,Uruguay,Spain,0
+2026-M067-PAN-ENG,67,Group stage,Group L,England,Panama,2
+2026-M067-PAN-ENG,67,Group stage,Group L,Panama,England,0
+2026-M068-CRO-GHA,68,Group stage,Group L,Croatia,Ghana,2
+2026-M068-CRO-GHA,68,Group stage,Group L,Ghana,Croatia,1
+2026-M069-ALG-AUT,69,Group stage,Group J,Algeria,Austria,3
+2026-M069-ALG-AUT,69,Group stage,Group J,Austria,Algeria,3
+2026-M070-JOR-ARG,70,Group stage,Group J,Argentina,Jordan,3
+2026-M070-JOR-ARG,70,Group stage,Group J,Jordan,Argentina,1
+2026-M071-COL-POR,71,Group stage,Group K,Colombia,Portugal,0
+2026-M071-COL-POR,71,Group stage,Group K,Portugal,Colombia,0
+2026-M072-COD-UZB,72,Group stage,Group K,Congo DR,Uzbekistan,3
+2026-M072-COD-UZB,72,Group stage,Group K,Uzbekistan,Congo DR,1
+2026-M073-RSA-CAN,73,Knockout stage,Round of 32,Canada,South Africa,1
+2026-M073-RSA-CAN,73,Knockout stage,Round of 32,South Africa,Canada,0
+2026-M074-GER-PAR,74,Knockout stage,Round of 32,Germany,Paraguay,1
+2026-M074-GER-PAR,74,Knockout stage,Round of 32,Paraguay,Germany,1
+2026-M075-NED-MAR,75,Knockout stage,Round of 32,Morocco,Netherlands,1
+2026-M075-NED-MAR,75,Knockout stage,Round of 32,Netherlands,Morocco,1
+2026-M076-BRA-JPN,76,Knockout stage,Round of 32,Brazil,Japan,2
+2026-M076-BRA-JPN,76,Knockout stage,Round of 32,Japan,Brazil,1
+2026-M077-FRA-SWE,77,Knockout stage,Round of 32,France,Sweden,3
+2026-M077-FRA-SWE,77,Knockout stage,Round of 32,Sweden,France,0
+2026-M078-CIV-NOR,78,Knockout stage,Round of 32,Côte d'Ivoire,Norway,1
+2026-M078-CIV-NOR,78,Knockout stage,Round of 32,Norway,Côte d'Ivoire,2
+2026-M079-MEX-ECU,79,Knockout stage,Round of 32,Ecuador,Mexico,0
+2026-M079-MEX-ECU,79,Knockout stage,Round of 32,Mexico,Ecuador,2
+2026-M080-ENG-COD,80,Knockout stage,Round of 32,Congo DR,England,1
+2026-M080-ENG-COD,80,Knockout stage,Round of 32,England,Congo DR,2
+2026-M081-USA-BIH,81,Knockout stage,Round of 32,Bosnia and Herzegovina,USA,0
+2026-M081-USA-BIH,81,Knockout stage,Round of 32,USA,Bosnia and Herzegovina,2
+2026-M082-BEL-SEN,82,Knockout stage,Round of 32,Belgium,Senegal,3
+2026-M082-BEL-SEN,82,Knockout stage,Round of 32,Senegal,Belgium,2
+2026-M083-POR-CRO,83,Knockout stage,Round of 32,Croatia,Portugal,1
+2026-M083-POR-CRO,83,Knockout stage,Round of 32,Portugal,Croatia,2
+2026-M084-ESP-AUT,84,Knockout stage,Round of 32,Austria,Spain,0
+2026-M084-ESP-AUT,84,Knockout stage,Round of 32,Spain,Austria,3
+2026-M085-SUI-ALG,85,Knockout stage,Round of 32,Algeria,Switzerland,0
+2026-M085-SUI-ALG,85,Knockout stage,Round of 32,Switzerland,Algeria,2
+2026-M086-ARG-CPV,86,Knockout stage,Round of 32,Argentina,Cabo Verde,3
+2026-M086-ARG-CPV,86,Knockout stage,Round of 32,Cabo Verde,Argentina,2
+2026-M087-COL-GHA,87,Knockout stage,Round of 32,Colombia,Ghana,1
+2026-M087-COL-GHA,87,Knockout stage,Round of 32,Ghana,Colombia,0
+2026-M088-AUS-EGY,88,Knockout stage,Round of 32,Australia,Egypt,1
+2026-M088-AUS-EGY,88,Knockout stage,Round of 32,Egypt,Australia,1
+2026-M089-PAR-FRA,89,Knockout stage,Round of 16,France,Paraguay,1
+2026-M089-PAR-FRA,89,Knockout stage,Round of 16,Paraguay,France,0
+2026-M090-CAN-MAR,90,Knockout stage,Round of 16,Canada,Morocco,0
+2026-M090-CAN-MAR,90,Knockout stage,Round of 16,Morocco,Canada,3
+2026-M091-BRA-NOR,91,Knockout stage,Round of 16,Brazil,Norway,1
+2026-M091-BRA-NOR,91,Knockout stage,Round of 16,Norway,Brazil,2
+2026-M092-MEX-ENG,92,Knockout stage,Round of 16,England,Mexico,3
+2026-M092-MEX-ENG,92,Knockout stage,Round of 16,Mexico,England,2
+2026-M093-POR-ESP,93,Knockout stage,Round of 16,Portugal,Spain,0
+2026-M093-POR-ESP,93,Knockout stage,Round of 16,Spain,Portugal,1
+2026-M094-USA-BEL,94,Knockout stage,Round of 16,Belgium,USA,4
+2026-M094-USA-BEL,94,Knockout stage,Round of 16,USA,Belgium,1
+2026-M095-ARG-EGY,95,Knockout stage,Round of 16,Argentina,Egypt,3
+2026-M095-ARG-EGY,95,Knockout stage,Round of 16,Egypt,Argentina,2
+2026-M096-SUI-COL,96,Knockout stage,Round of 16,Colombia,Switzerland,0
+2026-M096-SUI-COL,96,Knockout stage,Round of 16,Switzerland,Colombia,0
+2026-M097-FRA-MAR,97,Knockout stage,Quarter-ﬁnal,France,Morocco,2
+2026-M097-FRA-MAR,97,Knockout stage,Quarter-ﬁnal,Morocco,France,0
+2026-M098-ESP-BEL,98,Knockout stage,Quarter-ﬁnal,Belgium,Spain,1
+2026-M098-ESP-BEL,98,Knockout stage,Quarter-ﬁnal,Spain,Belgium,2
+2026-M099-NOR-ENG,99,Knockout stage,Quarter-ﬁnal,England,Norway,2
+2026-M099-NOR-ENG,99,Knockout stage,Quarter-ﬁnal,Norway,England,1
+2026-M100-ARG-SUI,100,Knockout stage,Quarter-ﬁnal,Argentina,Switzerland,3
+2026-M100-ARG-SUI,100,Knockout stage,Quarter-ﬁnal,Switzerland,Argentina,1
+2026-M101-FRA-ESP,101,Knockout stage,Semi-ﬁnal,France,Spain,0
+2026-M101-FRA-ESP,101,Knockout stage,Semi-ﬁnal,Spain,France,2
+2026-M102-ENG-ARG,102,Knockout stage,Semi-ﬁnal,Argentina,England,2
+2026-M102-ENG-ARG,102,Knockout stage,Semi-ﬁnal,England,Argentina,1
+2026-M103-FRA-ENG,103,Knockout stage,Bronze ﬁnal,England,France,6
+2026-M103-FRA-ENG,103,Knockout stage,Bronze ﬁnal,France,England,4
+2026-M104-ESP-ARG,104,Knockout stage,Final,Argentina,Spain,0
+2026-M104-ESP-ARG,104,Knockout stage,Final,Spain,Argentina,1
