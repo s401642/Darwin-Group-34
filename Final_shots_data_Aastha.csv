@@ -1,0 +1,125 @@
+match_id,team,results,shots on target,total shots,goals scored,goals against,match stage,team continent
+1,Mexico,Win,4,16,2,0,Group,North America
+1,South Africa,Lose,2,3,0,2,Group,Africa
+2,Korea Republic,Win,6,15,2,1,Group,Asia
+2,Czechia,Lose,4,7,1,2,Group,Europe
+3,USA,Win,6,16,4,1,Group,North America
+3,Paraguay,Lose,1,9,1,4,Group,South America
+4,Australia,Win,4,9,2,0,Group,Australia
+4,Turkey,Lose,8,30,0,2,Group,Europe and Asia
+5,Scotland,Win,2,9,1,0,Group,Europe
+5,Haiti,Lose,2,15,0,1,Group,North America
+6,Germany,Win ,12,26,7,1,Group,Europe
+6,Curacao,Lose,2,8,1,7,Group,North America
+7,Cote d'Ivoire,Win,4,15,1,0,Group,Africa
+7,Ecuador,Lose,1,12,0,1,Group,South America
+8,Sweden,Win,7,13,5,1,Group,Europe
+8,Tunisia,Lose,2,6,1,5,Group,Africa
+9,France,Win,8,11,3,1,Group,Europe
+9,Senegal,Lose,2,6,1,3,Group,Africa
+10,Norway,Win,5,12,4,1,Group,Europe
+10,Iraq,Lose,1,11,1,4,Group,Asia
+11,Argentina,Win,6,10,3,0,Group,South America
+11,Algeria,Lose,0,7,0,3,Group,Africa
+12,Austria,Win,4,11,3,1,Group,Europe
+12,Jordan,Lose,4,11,1,3,Group,Asia
+13,England,Win,11,22,4,2,Group,Europe
+13,Croatia,Lose,5,10,2,4,Group,Europe
+14,Ghana,Win,2,8,1,0,Group,Africa
+14,Panama,Lose,4,11,0,1,Group,North America
+15,Colombia,Win,4,15,3,1,Group,South America
+15,Uzbekistan,Lose,2,8,1,3,Group,Asia
+16,Switzerland,Win,7,13,4,1,Group,Europe
+16,Bosnia-Herz,Lose,3,5,1,4,Group,Europe
+17,Canada,Win,10,32,6,0,Group,North America
+17,Qatar,Lose,0,2,0,6,Group,Asia
+18,Mexico,Win,4,8,1,0,Group,North America
+18,Korea Republic,Lose,2,9,0,1,Group,Asia
+19,USA,Win,2,10,2,0,Group,North America
+19,Australia,Lose,2,5,0,2,Group,Australia
+20,Morocco,Win,2,12,1,0,Group,Africa
+20,Scotland,Lose,0,6,0,1,Group,Europe
+21,Paraguay,Win,2,7,1,0,Group,South America
+21,Turkey,Lose,5,32,0,1,Group,Europe and Asia
+22,Brazil,Win,5,8,3,0,Group,South America
+22,Haiti,Lose,3,7,0,3,Group,North America
+23,Netherlands,Win,7,10,5,1,Group,Europe
+23,Sweden,Lose,8,16,1,5,Group,Europe
+24,Germany,Win,7,16,2,1,Group,Europe
+24,Cote d'Ivoire,Lose,2,9,1,2,Group,Africa
+25,Japan,Win,5,11,4,0,Group,Asia
+25,Tunisia,Lose,0,2,0,4,Group,Africa
+26,Spain,Win,8,22,4,0,Group,Europe
+26,Saudi Arabia,Lose,1,3,0,4,Group,Asia
+27,Egypt,Win,7,19,3,1,Group,Africa
+27,New Zealand,Lose,5,11,1,3,Group,Independent
+28,Argentina,Win,5,12,2,0,Group,South America
+28,Austria,Lose,1,6,0,2,Group,Europe
+29,France,Win,5,19,3,0,Group,Europe
+29,Iraq,Lose,0,4,0,3,Group,Asia
+30,Norway,Win,7,13,3,2,Group,Europe
+30,Senegal,Lose,4,16,2,3,Group,Africa
+31,Canada,Win,7,12,1,0,Knockout,North America
+31,South Africa,Lose,1,6,0,1,Knockout,Africa
+32,Brazil,Win,7,19,2,1,Knockout,South America
+32,Japan,Lose,2,5,1,2,Knockout,Asia
+33,Paraguay,Win,3,7,1,1,Knockout,South America
+33,Germany,Lose,6,21,1,1,Knockout,Europe
+34,Morocco,Win,5,11,1,1,Knockout,Africa
+34,Netherlands,Lose,2,6,1,1,Knockout,Europe
+35,Norway,Win,4,9,2,1,Knockout,Europe
+35,Cote d'Ivoire,Lose,5,14,1,2,Knockout,Africa
+36,France,Win,12,25,3,0,Knockout,Europe
+36,Sweden,Lose,3,8,0,3,Knockout,Europe
+37,Mexico,Win,3,15,2,0,Knockout,North America
+37,Ecuador,Lose,1,7,0,2,Knockout,South America
+38,England,Win,7,16,2,1,Knockout,Europe
+38,Congo DR,Lose,2,7,1,2,Knockout,Africa
+39,Belgium,Win,5,19,3,2,Knockout,Europe
+39,Senegal,Lose,5,19,2,3,Knockout,Africa
+40,USA,Win,2,8,2,0,Knockout,North America
+40,Bosnia-Herz,Lose,3,10,0,2,Knockout,Europe
+41,Spain,Win,10,23,3,0,Knockout,Europe
+41,Austria,Lose,0,5,0,3,Knockout,Europe
+42,Portugal,Win,3,15,2,1,Knockout,Europe
+42,Croatia,Lose,6,13,1,2,Knockout,Europe
+43,Switzerland,Win,5,11,2,0,Knockout,Europe
+43,Algeria,Lose,2,8,0,2,Knockout,Africa
+44,Egypt,Win,3,14,1,1,Knockout,Africa
+44,Australia,Lose,1,16,1,1,Knockout,Australia
+45,Argentina,Win,10,22,3,2,Knockout,South America
+45,Cabo Verde,Lose,5,16,2,3,Knockout,Africa
+46,Colombia,Win,8,20,1,0,Knockout,South America
+46,Ghana,Lose,0,8,0,1,Knockout,Africa
+47,Morocco,Win,4,5,3,0,Knockout,Africa
+47,Canada,Lose,3,10,0,3,Knockout,North America
+48,France,Win,5,15,1,0,Knockout,Europe
+48,Paraguay,Lose,0,5,0,1,Knockout,South America
+49,Norway,Win,5,9,2,1,Knockout,Europe
+49,Brazil,Lose,4,14,1,2,Knockout,South America
+50,England,Win,5,6,3,2,Knockout,Europe
+50,Mexico,Lose,5,20,2,3,Knockout,North America
+51,Spain,Win,6,15,1,0,Knockout,Europe
+51,Portugal,Lose,2,10,0,1,Knockout,Europe
+52,Belgium,Win,7,15,4,1,Knockout,Europe
+52,USA,Lose,2,7,1,4,Knockout,North America
+53,Argentina,Win,7,19,3,2,Knockout,South America
+53,Egypt,Lose,2,5,2,3,Knockout,Africa
+54,Switzerland,Win,2,7,0,0,Knockout,Europe
+54,Colombia,Lose,3,15,0,0,Knockout,South America
+55,France,Win,8,22,2,0,Knockout,Europe
+55,Morocco,Lose,1,5,0,2,Knockout,Africa
+56,Spain,Win,8,17,2,1,Knockout,Europe
+56,Belgium,Lose,2,5,1,2,Knockout,Europe
+57,England,Win,8,14,2,1,Knockout,Europe
+57,Norway,Lose,4,13,1,2,Knockout,Europe
+58,Argentina,Win,7,22,3,1,Knockout,South America
+58,Switzerland,Lose,5,11,1,3,Knockout,Europe
+59,Spain,Win,2,10,2,0,Knockout,Europe
+59,France,Lose,3,10,0,2,Knockout,Europe
+60,Argentina,Win,5,15,2,1,Knockout,South America
+60,England,Lose,2,5,1,2,Knockout,Europe
+61,England,Win,11,19,6,4,Knockout,Europe
+61,France,Lose,9,19,4,6,Knockout,Europe
+62,Spain,Win,12,20,1,0,Knockout,Europe
+62,Argentina,Lose,0,2,9,1,Knockout,South America
